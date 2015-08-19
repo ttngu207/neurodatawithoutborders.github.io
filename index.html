@@ -1,0 +1,39 @@
+<html>
+  <head>
+    <title>Neurodata Without Borders: Neurophysiology File Format</title>
+	<style>
+	  a { color: #595959; }
+	  body { color: #595959; font-family: Arial, Helvetica, sans-serif; margin: 0;}	  
+	  div.github { margin-left: auto; margin-right: auto; width: 80%;}
+	  h1.heading { background-color: #9E1E1E; color: #FFFFFF; text-align: center; padding: 30px 0px 30px 0px;}
+	  h1 { color: #000000; font-weight: normal;}
+	  h2 { font-weight: normal;}
+	</style>
+  </head>
+  <body>
+    <h1 class="heading">Neurodata Without Borders</h1>
+
+	<div class="github">
+	
+      <h1>Neurophysiology File Format</h1>
+
+      <p>The <a href="http://nwb.org">Neurodata Without Borders: Neurophysiology</a> ("NWB") format is designed to store a variety of neurophysiology data, including from intracellular and extracellular electrophysiology experiments, optical physiology experiments, as well as tracking and stimulus data.</p>
+      <p>The NWB format is implemented in the <a href="https://www.hdfgroup.org/HDF5/">Hierarchical Data Format (HDF5)</a> and is designed to store data in a self-documenting way. The storage schema is described by a specification language and it is extensible to support future scientific needs as well as lab-specific requirements.</p>
+ 
+      <h2>Specification</h2>
+	  <p>The <a href="https://github.com/NeurodataWithoutBorders/specification">specification</a> for the NWB format consists of a functional requirements document and a schema file. A specification language was created to define the schema and provide for extensibility. The schema defines each datum's display name, semantic type, and relationships to other data. Neurophysiologists contributed to the format's goals and its schema's design. The collaborating laboratories provided representative use cases and feedback.</p>
+	
+	  <h2>API</h2>
+	  <p>A <a href="https://github.com/NeurodataWithoutBorders/api-python">Python API</a> and a <a href="https://github.com/NeurodataWithoutBorders/api-matlab">MATLAB API</a> are provided for data publishers. Files are generated using HDF5, so the <a href="https://www.hdfgroup.org/products/java/hdfview/">HDFView</a> application can be used to view content, and a HDF5 library, such as <a href="http://www.h5py.org/">h5py</a> for Python, can be used to access the data.</p>
+	
+  	  <h2>Tools</h2>
+	  <p>The <a href="https://github.com/NeurodataWithoutBorders/diff">Diff</a> tool is a Python script that compares two NWB files. <a href="https://github.com/NeurodataWithoutBorders/mat2h5">MAT2H5</a> is Python script that transforms MATLAB data files to a more easily processed HDF5 schema. It was used to simplify the task of loading the example data sets into the NWB format.</p>
+	
+	  <h2>About</h2>
+      <p>The Neurodata Without Borders: Neurophysiology Initiative is funded by GE, the Allen Institute for Brain Science, the Howard Hughes Medical Institute (HHMI), The Kavli Foundation and the International Neuroinformatics Coordinating Facility.</p>
+	  <p>Our founding scientific partners are the Allen Institute, the Svoboda Lab at the Janelia Research Campus of HHMI, the Meister Lab at the California Institute of Technology, the Buzs&aacute;ki Lab at New York University School of Medicine, and the University of California, Berkeley. Ovation.io is our founding development partner.
+	
+	</div>
+ 
+  </body>
+</html>
