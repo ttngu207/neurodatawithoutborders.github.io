@@ -12,7 +12,7 @@ permalink: /publications
 
 ## NWB:N Version 2
 
-<a href="https://github.com/NeurodataWithoutBorders/nwb-schema/raw/dev/docs/general/source/pubs/ruebel_sfn_2017.pdf"><img alt="NWB:N Poster" src="publications/ruebel_sfn_2017.png" width="800" class="center-block">
+<a href="https://github.com/NeurodataWithoutBorders/neurodatawithoutborders.github.io/raw/master/publications/ruebel_sfn_2017.pdf"><img alt="NWB:N Poster" src="publications/ruebel_sfn_2017.png" width="800" class="center-block"></a>
 
 
 ### Data Standard
