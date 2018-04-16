@@ -19,6 +19,7 @@ of the NeurodataWithoutBorders project at large see also the <a href="https://ww
 ## NWB:N -- An Ecosystem for Neuroscience Data Standardization
 
 NWB:N is more than just a file format but it defines an ecosystem of tools, methods, and standards for
-storing, sharing, and analyzing complex neurophysiology data.
+storing, sharing, and analyzing complex neurophysiology data. For more details see the [Project Overview](https://neurodatawithoutborders.github.io/overview).
 
 <img alt="NWB:N Components" src="images/project_components_frontopage.png" width="350" class="center-block">
+
