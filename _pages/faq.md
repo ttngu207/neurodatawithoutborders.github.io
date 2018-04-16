@@ -23,7 +23,7 @@ The current development plan is available here: http://nwb-overview.readthedocs.
 
 NWB:N 2 is currently under **active development**. The APIs and schema may change at any time. While many parts of the
 format and APIs have stabilized, the goal of the beta development phase is to enable users to begin adoption of
-NWB:N 2, develop the codes needed to convert data to NWB:N 2 and to test the schame and APIs. The goal of the hbeta phase is also
+NWB:N 2, develop the codes needed to convert data to NWB:N 2 and to test the schema and APIs. The goal of the beta phase is also
 to finalize changes to the schema and API features to allow us to ensure stability once the full release occurs
 as well as to improve testing and documentation.
 
