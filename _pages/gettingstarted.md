@@ -49,11 +49,12 @@ our <a href="{{ site.url }}{{ site.baseurl }}/contributing">Contributing Guideli
 
 Detailed documentation of the various aspects of the NWB:N project are available here:
 
-* **General Overview (this documentation)** : http://nwb-overview.readthedocs.io
-* **Specification Language:** http://schema-language.readthedocs.io
-* **Data Standard Schema:** http://nwb-schema.readthedocs.io
-* **Data Storage:** http://nwb-storage.readthedocs.io
-* **PyNWB (APIs):** http://pynwb.readthedocs.io
+* **General Overview (this website)** : [http://nwb-overview.readthedocs.io](http://nwb-overview.readthedocs.io)
+* **PyNWB (API):** [http://pynwb.readthedocs.io](http://pynwb.readthedocs.io)
+* **MatNWB (API):** [https://github.com/NeurodataWithoutBorders/matnwb](https://github.com/NeurodataWithoutBorders/matnwb)
+* **Data Standard Schema:** [http://nwb-schema.readthedocs.io](http://nwb-schema.readthedocs.io)
+* **Specification Language:** [http://schema-language.readthedocs.io](http://schema-language.readthedocs.io)
+* **Data Storage:** [http://nwb-storage.readthedocs.io](http://nwb-storage.readthedocs.io)
 * **Main Project Site** http://www.nwb.org/nwb-neurophysiology/
 
 The documents are also available in PDF and zipped HTML form for print and offline browsing:
@@ -63,11 +64,13 @@ The documents are also available in PDF and zipped HTML form for print and offli
     * **Data Standard Schema:** [http://readthedocs.org/projects/nwb-schema/downloads/pdf/latest/](http://readthedocs.org/projects/nwb-schema/downloads/pdf/latest/)
     * **Data Storage:** [http://readthedocs.org/projects/nwb-storage/downloads/pdf/latest/](http://readthedocs.org/projects/nwb-storage/downloads/pdf/latest/)
     * **PyNWB (APIs):** [http://readthedocs.org/projects/pynwb/downloads/pdf/latest/](http://readthedocs.org/projects/pynwb/downloads/pdf/latest/)
+    * The **General Overview (this website)** and **MatNWB** docs are currently available online only. 
 * **HTML Zip**:
     * **Specification Language:** [http://readthedocs.org/projects/schema-language/downloads/htmlzip/latest/](http://readthedocs.org/projects/schema-language/downloads/htmlzip/latest/)
     * **Format Specification:** [http://readthedocs.org/projects/nwb-schema/downloads/htmlzip/latest/](http://readthedocs.org/projects/nwb-schema/downloads/htmlzip/latest/)
     * **Data Storage:** [http://readthedocs.org/projects/nwb-storage/downloads/htmlzip/latest/](http://readthedocs.org/projects/nwb-storage/downloads/htmlzip/latest/)
     * **PyNWB (APIs):** [http://readthedocs.org/projects/pynwb/downloads/htmlzip/latest/](http://readthedocs.org/projects/pynwb/downloads/htmlzip/latest/)
+    * The **General Overview (this website)** and **MatNWB** docs are currently not available online only.
 
 Sources
 -------
