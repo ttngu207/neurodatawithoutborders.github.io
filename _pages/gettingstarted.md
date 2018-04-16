@@ -55,7 +55,7 @@ Detailed documentation of the various aspects of the NWB:N project are available
 * **Data Standard Schema:** [http://nwb-schema.readthedocs.io](http://nwb-schema.readthedocs.io)
 * **Specification Language:** [http://schema-language.readthedocs.io](http://schema-language.readthedocs.io)
 * **Data Storage:** [http://nwb-storage.readthedocs.io](http://nwb-storage.readthedocs.io)
-* **Main Project Site** http://www.nwb.org/nwb-neurophysiology/
+* **Main Project Site** [http://www.nwb.org/nwb-neurophysiology/](http://www.nwb.org/nwb-neurophysiology/)
 
 The documents are also available in PDF and zipped HTML form for print and offline browsing:
 
@@ -64,7 +64,7 @@ The documents are also available in PDF and zipped HTML form for print and offli
     * **Data Standard Schema:** [http://readthedocs.org/projects/nwb-schema/downloads/pdf/latest/](http://readthedocs.org/projects/nwb-schema/downloads/pdf/latest/)
     * **Data Storage:** [http://readthedocs.org/projects/nwb-storage/downloads/pdf/latest/](http://readthedocs.org/projects/nwb-storage/downloads/pdf/latest/)
     * **PyNWB (APIs):** [http://readthedocs.org/projects/pynwb/downloads/pdf/latest/](http://readthedocs.org/projects/pynwb/downloads/pdf/latest/)
-    * The **General Overview (this website)** and **MatNWB** docs are currently available online only. 
+    * The **General Overview (this website)** and **MatNWB** docs are currently available online only.
 * **HTML Zip**:
     * **Specification Language:** [http://readthedocs.org/projects/schema-language/downloads/htmlzip/latest/](http://readthedocs.org/projects/schema-language/downloads/htmlzip/latest/)
     * **Format Specification:** [http://readthedocs.org/projects/nwb-schema/downloads/htmlzip/latest/](http://readthedocs.org/projects/nwb-schema/downloads/htmlzip/latest/)
