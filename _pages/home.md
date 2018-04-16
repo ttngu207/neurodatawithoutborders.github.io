@@ -9,7 +9,7 @@ permalink: /
 
 # Neurodata Without Borders: Neurophysiolgy (NWB:N)
 
-We completed a first public beta release of NWB:N 2 in November 2017 in conjunction with the Annual Society for Neuroscience Meeting (SfN). NWB:N 2 provides a fully featured read and write API for Python (PyNWB) and Matlab (matNWB). Although NWB:N 2 is under active development, this is a great time to start adoption of the data standard
+We completed a first public **beta release** of NWB:N 2 in November 2017 in conjunction with the Annual Society for Neuroscience Meeting (SfN). NWB:N 2 provides a fully featured read and write API for Python (PyNWB) and Matlab (matNWB). Although NWB:N 2 is under active development, this is a great time to start adoption of the data standard
 
 The Neurodata Without Borders: Neurophysiology ("NWB:N") data standard is designed to store a variety of neurophysiology data, including from intracellular and extracellular electrophysiology experiments, optical physiology experiments, as well as tracking and stimulus data.
 
