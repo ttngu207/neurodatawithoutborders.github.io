@@ -29,7 +29,7 @@ as well as to improve testing and documentation.
 
 ## I would like to use NWB:N. How do I get started?
 
-See the (getting started)[https://oruebel.github.io/testpage/gettingstarted] page for more information.
+See the <a href="{{ site.url }}{{ site.baseurl }}/gettingstarted">Getting Started</a> page for more information.
 
 ## What is the difference between pynwb, nwb-schema and api-python?
 
