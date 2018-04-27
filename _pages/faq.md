@@ -56,6 +56,15 @@ arbitrary custom data or are missing required data fields.
 See the PyNWB documentation for details
 <a href="http://pynwb.readthedocs.io/en/latest/getting_started.html#installation" target="_blank">here</a>
 
+## Who can I contact for questions?
+
+For details please review our  <a href="{{ site.url }}{{ site.baseurl }}/contributing">Contributing Guidelines</a>
+
+* For technical contributions (specifically, if you have found a bug or want to request a new feature) you can create an issue on the approbriate GitHub repository.
+* For questions, e.g., about how to use NWB:N, you can use the [google group](https://groups.google.com/forum/#!forum/neurodatawithoutborders) .
+* To receive updates about NWB at large you can sign up for the [mailing list](http://visitor.r20.constantcontact.com/manage/optin?v=001nQUq2GTjwCjZxK_V2-6RLElLJO1HMVtoNLJ-wGyDCukZQZxu2AFJmNh6NS0_lGMsWc2w9hZpeNn74HuWdv5RtLX9qX0o0Hy1P0hOgMrkm2NoGAX3VoY25wx8HAtIZwredcCuM0nCUGodpvoaue3SzQ%3D%3D) .
+* For informal discussions between developers, users, and teams you can also join [https://nwb-users.slack.com](https://nwb-users.slack.com) .
+
 ## How do I contribute to PyNWB?
 
 For details on how to contribute to PyNWB see our
