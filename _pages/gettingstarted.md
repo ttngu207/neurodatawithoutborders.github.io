@@ -92,5 +92,8 @@ The sources for the API, format specification, and all documents are available h
 
 * **MatNWB** [https://github.com/NeurodataWithoutBorders/matnwb](https://github.com/NeurodataWithoutBorders/matnwb
     * This respository includes all sources of the MatNWB Matlab API.
+    
+* **NWB DocUtils** [https://github.com/NeurodataWithoutBorders/nwb-docutils](https://github.com/NeurodataWithoutBorders/nwb-docutils)
+   * This repository includes tools and cli scripts used to generate documentation for NWB:N.
 
 
