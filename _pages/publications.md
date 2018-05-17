@@ -18,11 +18,17 @@ permalink: /publications
 ### Data Standard
 
 * **Oliver Ruebel, Andrew Tritt**, David Camp, Edward F. Chang, David Donofrio, Loren M. Frank,
-  Fritz T. Sommer, Kritofer Bouchard, "An advanced data software architecture for neurodata
-  without borders (NWB) to enable efficient management, use and sharing of neurophysiology data,"
+  Fritz T. Sommer, Kritofer Bouchard, *"An advanced data software architecture for neurodata
+  without borders (NWB) to enable efficient management, use and sharing of neurophysiology data,"*
   Neuroscience 2017, Society for Neuroscience, Nov. 11, 2017, Washington D.C.
-  (Poster) [(online abstract)](http://www.abstractsonline.com/pp8/#!/4376/presentation/22013)
-  [(pdf)](https://github.com/NeurodataWithoutBorders/nwb-schema/raw/dev/docs/general/source/pubs/ruebel_sfn_2017.pdf)
+  (Poster) [(Online Abstract)](http://www.abstractsonline.com/pp8/#!/4376/presentation/22013)
+  [(PDF)](https://github.com/NeurodataWithoutBorders/nwb-schema/raw/dev/docs/general/source/pubs/ruebel_sfn_2017.pdf)
+  
+### Project Reports
+
+* Oliver Ruebel, Andrew Tritt, and Kristofer Bouchard eds., *"Report: 5th NWB:N Hackathon at Lawrence Berkeley National Laboratory, User Training and Engagement,"* Online Technical Report, May, 17, 2018 [(PDF)](https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK05_2018_Berkeley/report/report-5th-nwbn-hackathon-at-lbnl.pdf)
+
+
 
 ### Software Process
 
