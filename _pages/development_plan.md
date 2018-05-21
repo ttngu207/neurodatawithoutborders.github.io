@@ -36,40 +36,69 @@ may be included in future NWB:N 2.x releases.
 
 ### NWB:N Specification Language
 
-* No new features are planned for the specification language itself beyond what was changed/added in NWB:N 2.0 beta.
+* No new features are planned for the specification language itself beyond what was changed/added in NWB:N 2.0 beta. :white_check_mark:
 
 ### [NWB:N Format Schema](https://github.com/NeurodataWithoutBorders/nwb-schema)
 
-* Reorganize ``/general`` to ease adding and managing custom, lab-specific metadata via extensions ([#19](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/19))
-* Restructure the storage of Epochs data (see [#119](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/119))
-* Restructure the storage of ROI-related data (see [#118](https://github.com/NeurodataWithoutBorders/nwb-schema/pull/118)[#124](https://github.com/NeurodataWithoutBorders/nwb-schema/pull/124), [#60](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/60) )
-* Improve/add support for trial data (see [#152](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/152)
+* Reorganize ``/general`` to ease adding and managing custom, lab-specific metadata via extensions ([#19][i19])
+* Restructure the storage of Epochs data (see [#119][i119]
+* Restructure the storage of ROI-related data
+  (see [#118][i118], [#124][i124], [#60][i60] )
+* Improve/add support for trial data (see [#152][i152])
 * Use region and object reference for explicit referencing of data when possible
-* Make processing interfaces (Clustering, FeatureExtraction) that describe a time series inherit from TimeSeries (see [#112](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/112))
+* Make processing interfaces (Clustering, FeatureExtraction) that describe a time series inherit from TimeSeries (see [#112][i112])
 * Fix bugs and clarify fields (see
-  [#12](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/12),
-  [#59](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/59),
-  [#136](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/136),
-  [#139](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/139),
-  [#143](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/143),
-  [#4](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/4),
-  [#7](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/7),
-  [#53](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/53),
-  [#54](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/54), )
+  [#12][i12],
+  [#59][i59],
+  [#136][i136],
+  [#139][i139],
+  [#143][i143],
+  [#4][i4],
+  [#7][i7],
+  [#53][i53],
+  [#54][i54] )
 * Various minor restructuring/clarification of metadata (see
-  [#145](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/145),
-  [#148](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/148),
+  [#145][i145],
+  [#148][i148],
   )
 * Complete release notes describing the changes to the format, specification language etc. (see
-  [#161](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/161),
-  [#133](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/133),
-  [#122](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/122),
-  [#115](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/115),
-  [#102](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/102),
-  [#6](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/6),
-  [#28](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/28)
-  [#39](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/39)
+  [#161][i161],
+  [#133][i133],
+  [#122][i122],
+  [#115][i115],
+  [#102][i102],
+  [#6][i6],
+  [#28][i28],
+  [#39][i39],
   )
+
+[i19]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/19
+[i119]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/119
+[i118]: https://github.com/NeurodataWithoutBorders/nwb-schema/pull/118
+[i124]: https://github.com/NeurodataWithoutBorders/nwb-schema/pull/124
+[i60]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/60
+[i152]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/152
+[i112]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/112
+[i12]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/12
+[i59]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/59
+[i136]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/136
+[i139]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/139
+[i143]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/143
+[i4]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/4
+[i7]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/7
+[i53]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/53
+[i54]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/54
+[i145]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/145
+[i148]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/148
+[i161]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/161
+[i133]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/133
+[i122]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/122
+[i115]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/115
+[i102]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/102
+[i6]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/6
+[i28]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/28
+[i39]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/39
+
 
 ### [NWB:N Documentation Utilties](https://github.com/NeurodataWithoutBorders/nwb-docutils)
 
