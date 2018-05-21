@@ -11,7 +11,7 @@ permalink: /development_plan
 
 **The development plan is work in progress**
 
-## NWB:N 2.0 (Summer/Fall 2018)
+## NWB:N 2.0 (October 2018, Current)
 
 The primary purpose of this target release is to stabilize and complete development of NWB:N 2.0beta.
 This release will also include a number of changes to the format and APIs that have not made it into
@@ -121,7 +121,7 @@ may be included in future NWB:N 2.x releases.
 * <a href="https://github.com/NeurodataWithoutBorders/matnwb/issues" target="_blank">MatNWB -- All Open Issues</a>
 
 
-## NWB:N 2.0 beta (11/10/2017)
+## NWB:N 2.0 beta (11/10/2017, Complete)
 
 This is a first public beta release of the new version NWB:N. The intent of this beta release is to enable early adopters to start exploring the new format and software. As development is ongoing, there may still be bugs and further changes to the APIs as well as the format are still planed between this beta and the first full release of NWB:N2.0. As such backward compatibility cannot be promised at this point yet.
 
@@ -232,7 +232,7 @@ This is a first public beta release of the new version NWB:N. The intent of this
 
 
 
-# NWB:N 2.x : Development Plan  (xx 2019)
+# NWB:N 2.x : Development Plan  (xx 2019, Future)
 
 NWB:N 2.x refers to the next major feature release of NWB:N beyond the main release of NWB:N 2. The features to be included and target release date for NWB:N2.x  will be decided on after the NWB:N2.0 release is complete.
 
