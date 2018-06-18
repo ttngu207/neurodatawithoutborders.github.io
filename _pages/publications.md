@@ -38,6 +38,8 @@ permalink: /publications
     [(blog post part 1)](https://blog.kitware.com/how-to-improve-software-quality-in-open-source-projects-part-i-overview-of-continuous-integration-ci-and-software-process-in-pynwb/)
   * "How to Improve Software Quality in Open Source Projects: Part II – Packaging PyNWB for Multiple Operating Systems and Python Versions"
     [(blog post part 2)](https://blog.kitware.com/improving-software-quality-in-open-source-projects-part-ii-packaging-pynwb-for-multiple-operating-systems-and-python-versions/)
+   * "How to Improve Software Quality in Open Source Projects: Part III – Code Coverage, Documentation and Style"
+    [(blog post part 3)](https://blog.kitware.com/how-to-improve-software-quality-in-open-source-projects-part-iii-code-coverage-documentation-and-style/)
 
 
 
