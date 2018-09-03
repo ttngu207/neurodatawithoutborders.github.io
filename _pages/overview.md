@@ -18,7 +18,7 @@ ecosystem. For each component we provide an overview of the problem, its functio
 
 ### Data API(s)
 
-**Problem:** Efficient interaction with neuroscience data
+**Problem:** Efficient interaction with neuroscience data.
 
 **Approach:** Develop APIs that provide easy-to-use representations of NWB:N neurodata 
 types for programmatic use and enable the mapping of these representations to/from data 
