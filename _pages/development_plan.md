@@ -17,14 +17,27 @@ permalink: /development_plan
 
 **The development plan is work in progress**
 
-## NWB:N 2.0 (October 2018, Current)<a id="nwb2-full-plan"></a>
+## NWB:N 2.0 (December 2018, Current)<a id="nwb2-full-plan"></a>
 
-**Last Update June 5, 2018**
+**Last Update Nov 1, 2018**
 
 The primary purpose of this target release is to stabilize and complete development of NWB:N 2.0beta.
 This release will also include a number of changes to the format and APIs that have not made it into
 the beta release. Requests for new features for this release has been frozen. Additional new features
 may be included in future NWB:N 2.x releases.
+
+### Timeline
+
+By SfN 2018 (~Nov.5 2018) the goal is to complete all changes that break combatibility with previous
+version of NWB:N. Afterwards the focus will be on bug fixes and ensuring that PyNWB and MatNWB are
+stable and working as expected. A full release of NWB:N 2.O (final) and PyNWB and MatNWB is then
+expected to occure some time in December 2018.
+
+### Open issues for this release
+
+* <a href="https://github.com/NeurodataWithoutBorders/pynwb/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22NWB+2.0+Full%22"  target="_blank">PyNWB -- NWB:N 2.0 issues</a>
+* <a href="https://github.com/NeurodataWithoutBorders/nwb-schema/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22NWB+2.0+Full%22"  target="_blank">NWB:N Schema -- NWB:N 2.0 issues</a>
+* <a href="https://github.com/NeurodataWithoutBorders/matnwb/issues" target="_blank">MatNWB -- All Open Issues</a>
 
 ### [PyNWB: Python Reference API](https://github.com/NeurodataWithoutBorders/pynwb)
 
@@ -108,6 +121,9 @@ may be included in future NWB:N 2.x releases.
 * Restructure the storage of ROI-related data
   (see [#118][i118], [#124][i124], [#60][i60] )
 * Improve/add support for trial data (see [#152][i152])
+* Add support for dynamic data tables
+* Add support for efficient storage of vector data
+* Restructure unit data (consolidate UnitTimes, ClusterWaveforms, and Clustering)
 * Use region and object reference for explicit referencing of data when possible
 * Make processing interfaces (Clustering, FeatureExtraction) that describe a time series inherit from TimeSeries (see [#112][i112])
 * Fix bugs and clarify fields (see
@@ -162,7 +178,7 @@ may be included in future NWB:N 2.x releases.
 [i28]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/28
 [i39]: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/39
 
-### NWB:N Specification Language
+### [NWB:N Specification Language](https://github.com/NeurodataWithoutBorders/nwb-schema/tree/dev/docs/language)
 
 * No new features are planned for the specification language itself beyond what was changed/added in NWB:N 2.0 beta. :white_check_mark:
 
@@ -180,12 +196,6 @@ may be included in future NWB:N 2.x releases.
 * Add support for lazy data load
 * Add further documentation
 
-
-### Open issues for this release
-
-* <a href="https://github.com/NeurodataWithoutBorders/pynwb/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22NWB+2.0+Full%22"  target="_blank">PyNWB -- NWB:N 2.0 issues</a>
-* <a href="https://github.com/NeurodataWithoutBorders/nwb-schema/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22NWB+2.0+Full%22"  target="_blank">NWB:N Schema -- NWB:N 2.0 issues</a>
-* <a href="https://github.com/NeurodataWithoutBorders/matnwb/issues" target="_blank">MatNWB -- All Open Issues</a>
 
 
 ## NWB:N 2.0 beta (11/10/2017, Complete) <a id="nwb2-beta-plan"></a>
