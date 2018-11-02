@@ -51,6 +51,10 @@ which supporta reading of NWB:N 1.0.x files from popular data repositories, such
 the millage may vary in particular when files are not fully format compliant, e.g., include
 arbitrary custom data or are missing required data fields.
 
+## What has changed between NWB:N 1.0x and 2.0?
+
+See the <a href="http://nwb-schema.readthedocs.io/en/latest/format_release_notes.html" target="_blank">release notes of the NWB:N format schema</a> for details about changes to the format schema. For details about changes to the specification language see the <a href="http://schema-language.readthedocs.io/en/latest/specification_language_release_notes.html" targe="_blank">specification language release notes</a>. With reagrd to software, NWB:N 2 marks a full reboot and introduced with PyNWB, MatNWB, nwb-docutils, nwb-schema etc. several new packages and repositories while tools, e.g., api-python that were created for NWB:N 1.x have been deprectated. 
+
 ## How do I install PyNWB?
 
 See the PyNWB documentation for details

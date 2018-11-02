@@ -17,7 +17,7 @@ and also see the <a href="{{ site.url }}{{ site.baseurl }}/pynwb">PyNWB : Python
 in general for more details.
 
 For Matlab users, MatNWB also provides a Matlab API for NWB:N 2.  For more details see
-<a href="https://github.com/NeurodataWithoutBorders/matnwb"  target="_blank">MatNWB</a> repository on GitHub.
+MatNWB repository on <a href="https://github.com/NeurodataWithoutBorders/matnwb"  target="_blank">GitHub</a> or on <a href="https://www.mathworks.com/matlabcentral/fileexchange/67741-neurodatawithoutborders-matnwb" target="_blank">FileExchange</a>.
 
 ## I am a developer and would like to contribute to NWB:N development
 

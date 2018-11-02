@@ -22,7 +22,14 @@ permalink: /publications
   without borders (NWB) to enable efficient management, use and sharing of neurophysiology data,"*
   Neuroscience 2017, Society for Neuroscience, Nov. 11, 2017, Washington D.C.
   (Poster) [(Online Abstract)](http://www.abstractsonline.com/pp8/#!/4376/presentation/22013)
-  [(PDF)](https://github.com/NeurodataWithoutBorders/nwb-schema/raw/dev/docs/general/source/pubs/ruebel_sfn_2017.pdf)
+  [(PDF)](https://github.com/NeurodataWithoutBorders/neurodatawithoutborders.github.io/raw/master/publications/ruebel_sfn_2017.pdf)
+* **Oliver Ruebel, Andrew Tritt**, N. H. Cain, B. Dichter, J.-C. Fillion-Robin, D. Ozturk, 
+  L.M. Frank, E.F. Chang, F.T. Sommer, K. Svoboda, M. Grauer, W. Schroeder, L. Ng., K. Bouchard,
+  *"NWB:N: Advances towards an ecosystem for standardizing neurophysiology",* Neuroscience 2018, 
+  Society for Neuroscience, Nov. 6, 2018, San Diego, CA
+  (Poster) [(Online Abstract)](https://abstractsonline.com/pp8/#!/4649/presentation/22546)
+  [(PDF)](https://github.com/NeurodataWithoutBorders/neurodatawithoutborders.github.io/raw/master/publications/ruebel_sfn_2018.pdf)
+  
   
 ### Project Reports
 
@@ -38,6 +45,8 @@ permalink: /publications
     [(blog post part 1)](https://blog.kitware.com/how-to-improve-software-quality-in-open-source-projects-part-i-overview-of-continuous-integration-ci-and-software-process-in-pynwb/)
   * "How to Improve Software Quality in Open Source Projects: Part II – Packaging PyNWB for Multiple Operating Systems and Python Versions"
     [(blog post part 2)](https://blog.kitware.com/improving-software-quality-in-open-source-projects-part-ii-packaging-pynwb-for-multiple-operating-systems-and-python-versions/)
+   * "How to Improve Software Quality in Open Source Projects: Part III – Code Coverage, Documentation and Style"
+    [(blog post part 3)](https://blog.kitware.com/how-to-improve-software-quality-in-open-source-projects-part-iii-code-coverage-documentation-and-style/)
 
 
 
