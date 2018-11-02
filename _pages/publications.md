@@ -22,7 +22,7 @@ permalink: /publications
   without borders (NWB) to enable efficient management, use and sharing of neurophysiology data,"*
   Neuroscience 2017, Society for Neuroscience, Nov. 11, 2017, Washington D.C.
   (Poster) [(Online Abstract)](http://www.abstractsonline.com/pp8/#!/4376/presentation/22013)
-  [(PDF)](https://github.com/NeurodataWithoutBorders/nwb-schema/raw/dev/docs/general/source/pubs/ruebel_sfn_2017.pdf)
+  [(PDF)](https://github.com/NeurodataWithoutBorders/neurodatawithoutborders.github.io/raw/master/publications/ruebel_sfn_2017.pdf)
   
 ### Project Reports
 
