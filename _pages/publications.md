@@ -23,6 +23,13 @@ permalink: /publications
   Neuroscience 2017, Society for Neuroscience, Nov. 11, 2017, Washington D.C.
   (Poster) [(Online Abstract)](http://www.abstractsonline.com/pp8/#!/4376/presentation/22013)
   [(PDF)](https://github.com/NeurodataWithoutBorders/neurodatawithoutborders.github.io/raw/master/publications/ruebel_sfn_2017.pdf)
+* **Oliver Ruebel, Andrew Tritt**, N. H. Cain, B. Dichter, J.-C. Fillion-Robin, D. Ozturk, 
+  L.M. Frank, E.F. Chang, F.T. Sommer, K. Svoboda, M. Grauer, W. Schroeder, L. Ng., K. Bouchard,
+  *"NWB:N: Advances towards an ecosystem for standardizing neurophysiology",* Neuroscience 2018, 
+  Society for Neuroscience, Nov. 6, 2018, San Diego, CA
+  (Poster) [(Online Abstract)](https://abstractsonline.com/pp8/#!/4649/presentation/22546)
+  [(PDF)](https://github.com/NeurodataWithoutBorders/neurodatawithoutborders.github.io/raw/master/publications/ruebel_sfn_2018.pdf)
+  
   
 ### Project Reports
 
