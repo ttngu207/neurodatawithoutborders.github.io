@@ -1,7 +1,7 @@
 ---
 title: "PyNWB"
 layout: default
-excerpt: "PyNWB"
+excerpt: "NWB Hackathons"
 sitemap: false
 permalink: /hackathon_events
 ---
