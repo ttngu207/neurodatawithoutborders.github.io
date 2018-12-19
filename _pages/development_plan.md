@@ -12,13 +12,14 @@ permalink: /development_plan
 # NWB:N -  Development Plan
 
 **Contents**
+* [NWB:N 2.0 Final (January 2019, Current)](#nwb2-final-plan)
 * [NWB:N 2.0 (January 2019, Current)](#nwb2-full-plan)
 * [NWB:N 2.0 beta (11/10/2017, Complete)](#nwb2-beta-plan)
 
 **The development plan is work in progress**
 
 
-## NWB:N 2.0 (January 2019, Current)<a id="nwb2-full-plan"></a>
+## NWB:N 2.0 Final (January 2019, Current)<a id="nwb2-final-plan"></a>
 
 **Last Update Dec 19, 2018**
 
@@ -37,7 +38,56 @@ may be included in future NWB:N 2.x releases.
 
 * **Other:**
 
-    * May, 2019: Release ``pynwb.form`` as a separate library
+    * May, 2019: Rename and release ``pynwb.form`` as a separate library.
+      Tentative library name ``Hiearchical Data Modeling Framework (HDMF)``
+
+
+### ToDo for the release
+
+* **PyNWB**
+
+    * Close (or as approbritate update) open issues for the <a href="https://github.com/NeurodataWithoutBorders/pynwb/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22NWB+2.0+Full%22" target="_blank">NWB:N 2.0 Full milestone</a>.  One critical issues is <a href="https://github.com/NeurodataWithoutBorders/pynwb/issues/715" target="_blank">#715</a>, <a href="https://github.com/NeurodataWithoutBorders/pynwb/pull/747" target="_blank">#747</a> to fix the validator.
+
+* **MatNWB**
+
+    * Sync MatNWB to the latest schema
+
+* **nwb-docutils**
+
+    * Make PyPi release of the latest verison
+
+* **Documentation**:
+
+    * Test that the schema docs build and are organized correctly on ReadTheDocs
+    * Update builds on ReadTheDocs for all docs
+    * Change links on https://neurodatawithoutborders.github.io/ to point to the ``stable`` rather than
+      the ``latest`` build of the docs.
+
+* **nwb-schema:**
+
+    * Sync schema with PyNWB
+    * Finalize release notes
+     * Close (or as approbritate update) open issues for the <a href="https://github.com/NeurodataWithoutBorders/nwb-schema/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22NWB+2.x%22" target="_blank">NWB:N 2.0 Full milestone</a>
+
+* **Publication:**
+
+    * Post manuscript describing the advances in the NWB:N 2.0 schema online
+    * Post news release with announcement of the release
+
+
+
+## NWB:N 2.0 (November 2019)<a id="nwb2-full-plan"></a>
+
+**Last Update Dec 19, 2018**
+
+The primary purpose of this target release is to stabilize and complete development of NWB:N 2.0beta.
+This release will also include a number of changes to the format and APIs that have not made it into
+the beta release. Requests for new features for this release has been frozen. Additional new features
+may be included in future NWB:N 2.x releases.
+
+### Timeline
+
+SfN 2018 (~Nov.5 2018) complete all changes that break compatibility with previous versions of NWB:N.
 
 
 ### Open issues for this release
