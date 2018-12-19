@@ -12,14 +12,15 @@ permalink: /development_plan
 # NWB:N -  Development Plan
 
 **Contents**
-* [NWB:N 2.0 (October 2018, Current)](#nwb2-full-plan)
+* [NWB:N 2.0 (January 2019, Current)](#nwb2-full-plan)
 * [NWB:N 2.0 beta (11/10/2017, Complete)](#nwb2-beta-plan)
 
 **The development plan is work in progress**
 
-## NWB:N 2.0 (December 2018, Current)<a id="nwb2-full-plan"></a>
 
-**Last Update Nov 1, 2018**
+## NWB:N 2.0 (January 2019, Current)<a id="nwb2-full-plan"></a>
+
+**Last Update Dec 19, 2018**
 
 The primary purpose of this target release is to stabilize and complete development of NWB:N 2.0beta.
 This release will also include a number of changes to the format and APIs that have not made it into
@@ -28,10 +29,16 @@ may be included in future NWB:N 2.x releases.
 
 ### Timeline
 
-By SfN 2018 (~Nov.5 2018) the goal is to complete all changes that break combatibility with previous
-version of NWB:N. Afterwards the focus will be on bug fixes and ensuring that PyNWB and MatNWB are
-stable and working as expected. A full release of NWB:N 2.O (final) and PyNWB and MatNWB is then
-expected to occure some time in December 2018.
+* **NWB:N 2.0:**
+
+    * Jan. 18, 2019: Full release of NWB:N 2.O (final) and PyNWB and MatNWB
+    * Dec. 23, 2018: NWB:N 2.0 schema finalized
+    * SfN 2018 (~Nov.5 2018) complete all changes that break compatibility with previous versions of NWB:N.
+
+* **Other:**
+
+    * May, 2019: Release ``pynwb.form`` as a separate library
+
 
 ### Open issues for this release
 
