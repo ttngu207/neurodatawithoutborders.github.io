@@ -1,5 +1,5 @@
 ---
-title: "PyNWB"
+title: "NWB Hackathons"
 layout: default
 excerpt: "NWB Hackathons"
 sitemap: false
