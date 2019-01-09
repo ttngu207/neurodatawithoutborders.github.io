@@ -49,7 +49,7 @@ our <a href="{{ site.url }}{{ site.baseurl }}/contributing">Contributing Guideli
 
 Detailed documentation of the various aspects of the NWB:N project are available here:
 
-* **General Overview (this website)** : [http://nwb-overview.readthedocs.io](http://nwb-overview.readthedocs.io)
+* **General Overview (this website)** : [https://neurodatawithoutborders.github.io](https://neurodatawithoutborders.github.io/overview)
 * **PyNWB (API):** [http://pynwb.readthedocs.io](http://pynwb.readthedocs.io)
 * **MatNWB (API):** [https://github.com/NeurodataWithoutBorders/matnwb](https://github.com/NeurodataWithoutBorders/matnwb)
 * **Data Standard Schema:** [http://nwb-schema.readthedocs.io](http://nwb-schema.readthedocs.io)
