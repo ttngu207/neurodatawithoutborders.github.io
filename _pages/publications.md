@@ -16,21 +16,28 @@ permalink: /publications
 
 
 ### Data Standard
-
+* **Oliver Ruebel, Andrew Tritt**, B. Dichter, T. Braun, N. Cain, N. Clack,
+  T. J. Davidson, M. Dougherty, J.-C. Fillion-Robin, N. Graddis,  M. Grauer,
+  J. T. Kiggins, L. Niu, D. Ozturk, W. Schroeder, I. Soltesz, F. T. Sommer,
+  K. Svoboda, L. Ng, L. M. Frank, K. Bouchard,
+  *"NWB:N 2.0: An Accessible Data Standard for Neurophysiology,"* January, 18, 2019,
+  doi: https://doi.org/10.1101/523035  (preprint)
+  [(Online Abstract)](https://www.biorxiv.org/content/early/2019/01/17/523035) [(PDF)](https://www.biorxiv.org/content/biorxiv/early/2019/01/17/523035.full.pdf)
+* **Oliver Ruebel, Andrew Tritt**, N. H. Cain, B. Dichter, J.-C. Fillion-Robin, D. Ozturk,
+  L.M. Frank, E.F. Chang, F.T. Sommer, K. Svoboda, M. Grauer, W. Schroeder, L. Ng., K. Bouchard,
+  *"NWB:N: Advances towards an ecosystem for standardizing neurophysiology,"* Neuroscience 2018,
+  Society for Neuroscience, Nov. 6, 2018, San Diego, CA
+  (Poster) [(Online Abstract)](https://abstractsonline.com/pp8/#!/4649/presentation/22546)
+  [(PDF)](https://github.com/NeurodataWithoutBorders/neurodatawithoutborders.github.io/raw/master/publications/ruebel_sfn_2018.pdf)
 * **Oliver Ruebel, Andrew Tritt**, David Camp, Edward F. Chang, David Donofrio, Loren M. Frank,
   Fritz T. Sommer, Kritofer Bouchard, *"An advanced data software architecture for neurodata
   without borders (NWB) to enable efficient management, use and sharing of neurophysiology data,"*
   Neuroscience 2017, Society for Neuroscience, Nov. 11, 2017, Washington D.C.
   (Poster) [(Online Abstract)](http://www.abstractsonline.com/pp8/#!/4376/presentation/22013)
   [(PDF)](https://github.com/NeurodataWithoutBorders/neurodatawithoutborders.github.io/raw/master/publications/ruebel_sfn_2017.pdf)
-* **Oliver Ruebel, Andrew Tritt**, N. H. Cain, B. Dichter, J.-C. Fillion-Robin, D. Ozturk, 
-  L.M. Frank, E.F. Chang, F.T. Sommer, K. Svoboda, M. Grauer, W. Schroeder, L. Ng., K. Bouchard,
-  *"NWB:N: Advances towards an ecosystem for standardizing neurophysiology",* Neuroscience 2018, 
-  Society for Neuroscience, Nov. 6, 2018, San Diego, CA
-  (Poster) [(Online Abstract)](https://abstractsonline.com/pp8/#!/4649/presentation/22546)
-  [(PDF)](https://github.com/NeurodataWithoutBorders/neurodatawithoutborders.github.io/raw/master/publications/ruebel_sfn_2018.pdf)
-  
-  
+
+
+
 ### Project Reports
 
 * Oliver Ruebel, Andrew Tritt, and Kristofer Bouchard eds., *"Report: 5th NWB:N Hackathon at Lawrence Berkeley National Laboratory, User Training and Engagement,"* Online Technical Report, May, 17, 2018 [(PDF)](https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK05_2018_Berkeley/report/report-5th-nwbn-hackathon-at-lbnl.pdf)
