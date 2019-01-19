@@ -23,6 +23,9 @@ permalink: /publications
   *"NWB:N 2.0: An Accessible Data Standard for Neurophysiology,"* January, 18, 2019,
   doi: https://doi.org/10.1101/523035  (preprint)
   [(Online Abstract)](https://www.biorxiv.org/content/early/2019/01/17/523035) [(PDF)](https://www.biorxiv.org/content/biorxiv/early/2019/01/17/523035.full.pdf)
+
+
+### Posters
 * **Oliver Ruebel, Andrew Tritt**, N. H. Cain, B. Dichter, J.-C. Fillion-Robin, D. Ozturk,
   L.M. Frank, E.F. Chang, F.T. Sommer, K. Svoboda, M. Grauer, W. Schroeder, L. Ng., K. Bouchard,
   *"NWB:N: Advances towards an ecosystem for standardizing neurophysiology,"* Neuroscience 2018,
@@ -35,7 +38,6 @@ permalink: /publications
   Neuroscience 2017, Society for Neuroscience, Nov. 11, 2017, Washington D.C.
   (Poster) [(Online Abstract)](http://www.abstractsonline.com/pp8/#!/4376/presentation/22013)
   [(PDF)](https://github.com/NeurodataWithoutBorders/neurodatawithoutborders.github.io/raw/master/publications/ruebel_sfn_2017.pdf)
-
 
 
 ### Project Reports
