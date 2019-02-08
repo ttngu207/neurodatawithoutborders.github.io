@@ -8,7 +8,13 @@ permalink: /news
 
 # News
 
-## NWB:N 2.0 Final Released
+## NWB:N at Cosyne 2019
+**Date:** Feb. 7, 2019
+
+We are excite to announce that we will be holding a tutorial on the NWB:N data standard and on using [PyNWB](https://neurodatawithoutborders.github.io/pynwb) and [MatNWB](https://neurodatawithoutborders.github.io/matnwbemb) at the Cosyne 2019 Workshops on March 4, 2019, 1-4pm. To register and for further details see the [tutorial website](https://neurodatawithoutborders.github.io/nwb_hackathons/Cosyne_2019/){:target="_top"}.
+
+
+## NWB:N 2.0 Final Released {#nwb2release}
 **Date:** Jan. 18, 2019
 
 We are excited to announce the full release of Neurodata Without Borders: Neurophysiology version 2.0 (NWB:N 2.0). NWB:N is a data standard for neurophysiology, providing neuroscientists with a common standard to share, archive, use, and build common analysis tools for neurophysiology data. With NWB:N 2.0 we have made significant advances towards creating a usable standard, software ecosystem, and vibrant community for standardizing neurophysiology data. With [PyNWB](https://neurodatawithoutborders.github.io/pynwb) and [MatNWB](https://neurodatawithoutborders.github.io/matnwbemb) this release also includes advanced NWB:N-compliant data APIs for both Python and Matlab.
