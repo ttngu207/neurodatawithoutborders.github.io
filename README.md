@@ -3,15 +3,15 @@
 This repo is for the technical website for the NWB:N project
 
 ## Updating Content
-* **Submitting changes** Use GitHub pull requests to submit changes. 
+* **Submitting changes** Use GitHub pull requests to submit changes.
 * **Page Content** All page content is defined in the markdown files located in the ``_pages`` folder
 * **Main Menu** The main menu is defined in ``_includes/header.html``
-* **Publications** Publications files can be added to the ``publications/`` folder and publication entries can be added to the ``_pages/publications.md`` markdown file. 
+* **Publications** Publications files can be added to the ``publications/`` folder and publication entries can be added to the ``_pages/publications.md`` markdown file.
 
 ## Repository Content
 
 * **Page content**
-  * ``_pages``: Markdown files with the contents of the website. 
+  * ``_pages``: Markdown files with the contents of the website
   * ``images`` : Image files shown in the website
   * ``publications`` : Files related to publications shown on the website
 * **Page layout and styling**
@@ -25,4 +25,17 @@ This repo is for the technical website for the NWB:N project
   * ``_config.yml``: Jekyll setup for building the website
 * **Others**
   * ``README.md`` : This file
+
+## Adding a news item
+
+``_pages/news.md`` is the markdown file for the full news releases. To add a short item to the front page you will
+need edit ``_includes/news.html``.
+
+## Changing the main menu bar
+
+The main menu is defined ``_includes/header.html``
+
+## Updating existing pages
+
+All page content is defined via corresponding markdown files in the ``_pages`` folder and can be edited there.
 
