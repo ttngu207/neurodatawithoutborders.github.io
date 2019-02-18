@@ -19,3 +19,5 @@ include:
 sass:
   sass_dir: _sass
 
+google_analytics: UA-134749152-1
+
