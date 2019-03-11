@@ -8,6 +8,11 @@ permalink: /news
 
 # News
 
+## NWB:N User Days 2019 Registration Open
+**Date:** Mar. 5, 2019
+
+Registration for the NWB:N User Days is now open. Space at the event is limited and we only have few spots left for the user days! Registration is on a first-come basis. See the [event website](https://neurodatawithoutborders.github.io/nwb_hackathons/HCK06_2019_Janelia/){:target="_top"} for details.
+
 ## NWB:N at Cosyne 2019
 **Date:** Feb. 7, 2019
 
