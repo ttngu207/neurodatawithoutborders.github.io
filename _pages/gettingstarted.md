@@ -88,8 +88,6 @@ The sources for the API, format specification, and all documents are available h
         * ``docs/language`` : Sphinx sources for the specification language documentation
         * ``docs/format`` : Sphinx sources for the format specification documentation
         * ``docs/storage`` : Sphinx sources for the data storage documentation
-        * ``docs/utils`` : Python utilities used for generation of the format documentation from the YAML specification.
-          This includes convenient helper functions for rendering specification hierarchies and for generating RST docs
 
 * **MatNWB:** [https://github.com/NeurodataWithoutBorders/matnwb](https://github.com/NeurodataWithoutBorders/matnwb)
     * This repository includes all sources of the MatNWB Matlab API.
