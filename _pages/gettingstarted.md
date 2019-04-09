@@ -40,10 +40,10 @@ The PyNWB and nwb-schema projects and everyone participating in it are governed 
 <a href="{{ site.url }}{{ site.baseurl }}/code_of_conduct">Code of Conduct</a> guidelines.
 By participating, you are expected to uphold this code.
 
-## Reporting Issues and Contributing
+## Reporting Issues
 
-For details on how to contribute to PyNWB and nwb-schema projects, see
-our <a href="{{ site.url }}{{ site.baseurl }}/contributing">Contributing Guidelines</a>
+For details on how to report issues or contribute to the PyNWB and nwb-schema projects, please see our
+our <a href="{{ site.url }}{{ site.baseurl }}/contributing">Contributing Guidelines</a>.
 
 # Documentation
 
@@ -64,13 +64,14 @@ The documents are also available in PDF and zipped HTML form for print and offli
     * **Data Standard Schema:** [http://readthedocs.org/projects/nwb-schema/downloads/pdf/latest/](http://readthedocs.org/projects/nwb-schema/downloads/pdf/latest/)
     * **Data Storage:** [http://readthedocs.org/projects/nwb-storage/downloads/pdf/latest/](http://readthedocs.org/projects/nwb-storage/downloads/pdf/latest/)
     * **PyNWB (APIs):** [http://readthedocs.org/projects/pynwb/downloads/pdf/latest/](http://readthedocs.org/projects/pynwb/downloads/pdf/latest/)
-    * The **General Overview (this website)** and **MatNWB** docs are currently available online only.
+    *
 * **HTML Zip**:
     * **Specification Language:** [http://readthedocs.org/projects/schema-language/downloads/htmlzip/latest/](http://readthedocs.org/projects/schema-language/downloads/htmlzip/latest/)
     * **Format Specification:** [http://readthedocs.org/projects/nwb-schema/downloads/htmlzip/latest/](http://readthedocs.org/projects/nwb-schema/downloads/htmlzip/latest/)
     * **Data Storage:** [http://readthedocs.org/projects/nwb-storage/downloads/htmlzip/latest/](http://readthedocs.org/projects/nwb-storage/downloads/htmlzip/latest/)
     * **PyNWB (APIs):** [http://readthedocs.org/projects/pynwb/downloads/htmlzip/latest/](http://readthedocs.org/projects/pynwb/downloads/htmlzip/latest/)
-    * The **General Overview (this website)** and **MatNWB** docs are currently available online only.
+
+The **General Overview (this website)** and **MatNWB** docs are currently only available online.
 
 Sources
 -------
@@ -88,7 +89,7 @@ The sources for the API, format specification, and all documents are available h
         * ``docs/format`` : Sphinx sources for the format specification documentation
         * ``docs/storage`` : Sphinx sources for the data storage documentation
         * ``docs/utils`` : Python utilities used for generation of the format documentation from the YAML specification.
-          This includes convenient helper functions for rendering specification hierarchies and for generating RST docs.
+          This includes convenient helper functions for rendering specification hierarchies and for generating RST docs
 
 * **MatNWB:** [https://github.com/NeurodataWithoutBorders/matnwb](https://github.com/NeurodataWithoutBorders/matnwb)
     * This repository includes all sources of the MatNWB Matlab API.
