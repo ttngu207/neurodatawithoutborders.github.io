@@ -6,17 +6,16 @@ sitemap: false
 permalink: /
 ---
 
-# Neurodata Without Borders: Neurophysiolgy (NWB:N)
+# Neurodata Without Borders: Neurophysiology (NWB:N)
 
 Neurodata Without Borders: Neurophysiology (NWB:N) is a data standard for neurophysiology, providing neuroscientists with a common standard to share, archive, use, and build common analysis tools for neurophysiology data. NWB:N is designed to store a variety of neurophysiology data, including from intracellular and extracellular electrophysiology experiments, optical physiology experiments, as well as tracking and stimulus data.
 
-This page is used to collect and organize materials around the NWB:N data standard and ecosystem. For a more broader overview
-of the NeurodataWithoutBorders project at large see also the <a href="https://www.nwb.org/">nwb.org</a> website.
+This page is used to collect and organize materials around the NWB:N data standard and ecosystem. For an overview of the NeurodataWithoutBorders project at large see also the <a href="https://www.nwb.org/">nwb.org</a> website.
 
 ## NWB:N -- An Ecosystem for Neuroscience Data Standardization
 
-NWB:N is more than just a file format but it defines an ecosystem of tools, methods, and standards for
-storing, sharing, and analyzing complex neurophysiology data. For more details see the [Project Overview](https://neurodatawithoutborders.github.io/overview).
+NWB:N is more than just a file format; it defines an ecosystem of tools, methods, and standards for
+storing, sharing, and analyzing complex neurophysiology data. For more details, see the [Project Overview](https://neurodatawithoutborders.github.io/overview).
 
 <img alt="NWB:N Components" src="images/project_components.png" width="550" class="center-block">
 
