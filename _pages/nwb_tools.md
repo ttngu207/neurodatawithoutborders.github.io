@@ -17,9 +17,8 @@ other groups, and are in active development.
 
 ## [Brainstorm](https://neuroimage.usc.edu/brainstorm/Introduction)
 Brainstorm is a collaborative, open-source application dedicated to the analysis of brain recordings:
-MEG, EEG, fNIRS, ECoG, depth electrodes and animal invasive neurophysiology built in Matlab. With the
-help of Brainstorm developers, we have importers from NWB:N into the Brainstorm analysis suite for
-ECoG and invasive electrophysiology data.
+MEG, EEG, fNIRS, ECoG, depth electrodes and animal invasive neurophysiology built in Matlab. Brainstorm now supports the NWB
+data format for importing ECoG and invasive electrophysiology data. The application povides a graphical interface for a preprocessing pipeline, including spike sorting using WavClus, UltraMegaSort2000, KiloSort or Klusters, a large large suite of LFP analyses, data visualization, and interactive 3D rendering of brains.
 
 ## [NWBwidgets](https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets)
-NWBwidgets is a library for visualizing the structure and data of an NWB file in a Jupyter notebook.
+NWBwidgets is a library for exploring an NWB file in a Jupyter notebook. This tool lets you travese the hierarchical structure of an NWB file and visualize the data from each of the NWB elements within the file.
