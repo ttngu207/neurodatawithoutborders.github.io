@@ -24,7 +24,7 @@ download [here](http://download.alleninstitute.org/informatics-archive/prereleas
 
 ## Frank Lab (UCSF) (May, 2019)
 
-A version of Frank Lab HC06 dataset from CRCNS.org (see the [sataset about page](https://crcns.org/data-sets/hc/hc-6/about-hc-5)) is available at [Bon04.nwb](https://www.dropbox.com/s/92jkkse2c7lm7qe/bon04.nwb?dl=0) (~4GB). The NWB:N file is created by [create_franklab_nwbfile.ipynb](https://github.com/LorenFrankLab/franklab-nwb-hack/blob/master/hackathon-6/create_franklab_nwbfile.ipynb). The [franklab-nwb-hac](https://github.com/LorenFrankLab/franklab-nwb-hack/tree/master/hackathon-6) repository also contains additional notebooks demonstrating query and analysis of this dataset as well of the ecephys_session_785402239.nwb  file from the May, 2019 Allen Institute for Brain Science: pre-release above.
+A version of Frank Lab HC06 dataset from CRCNS.org (see the [dataset about page](https://crcns.org/data-sets/hc/hc-6/about-hc-5)) is available at [Bon04.nwb](https://www.dropbox.com/s/92jkkse2c7lm7qe/bon04.nwb?dl=0) (~4GB). The NWB:N file is created by [create_franklab_nwbfile.ipynb](https://github.com/LorenFrankLab/franklab-nwb-hack/blob/master/hackathon-6/create_franklab_nwbfile.ipynb). The [franklab-nwb-hac](https://github.com/LorenFrankLab/franklab-nwb-hack/tree/master/hackathon-6) repository also contains additional notebooks demonstrating query and analysis of this dataset as well of the ecephys_session_785402239.nwb  file from the May, 2019 Allen Institute for Brain Science: pre-release above.
 
 ## PyNWB Test Data
 
