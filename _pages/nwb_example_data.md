@@ -17,8 +17,8 @@ and supported by other groups, and are in active development.
 
 ## Allen Institute for Brain Science: pre-release (May, 2019)
 
-A collection of *pre-release* example (1) extracellular eqhys and
-(2) behavior optical physiology datasets  is available for
+A collection of *pre-release* example (1) extracellular electrophysiology and
+(2) behavior calcium imaging datasets is available for
 download [here](http://download.alleninstitute.org/informatics-archive/prerelease/)
 
 
