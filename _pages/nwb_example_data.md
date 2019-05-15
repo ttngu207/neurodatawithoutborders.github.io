@@ -19,7 +19,7 @@ and supported by other groups, and are in active development.
 
 A collection of *pre-release* example datasets is available for
 download [here](http://download.alleninstitute.org/informatics-archive/prerelease/) spanning:
-1. passive viewing extracellular electrophysiology
+1. passive viewing extracellular electrophysiology ![ECEphys](../images/EphysVisualCoding.PNG = x100)
 2. visual behavior calcium imaging
 3. intracellular in-vitro electrophysiology
 
