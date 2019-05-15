@@ -18,11 +18,10 @@ and supported by other groups, and are in active development.
 ## Allen Institute for Brain Science: pre-release (May, 2019)
 
 A collection of *pre-release* example datasets is available for
-download [here](http://download.alleninstitute.org/informatics-archive/prerelease/) spanning:
-1. passive viewing extracellular electrophysiology ![ECEphys](../images/EphysVisualCoding.PNG = x100)
-2. visual behavior calcium imaging
-3. intracellular in-vitro electrophysiology
-
+download [here](http://download.alleninstitute.org/informatics-archive/prerelease/):
+* <img src="../images/EphysVisualCoding.PNG" height="100">  Passive viewing extracellular electrophysiology
+* <img src="../images/OphysVisualBehavior.PNG" height="100">  Visual behavior calcium imaging 
+* <img src="../images/ICEphys.PNG" height="75"> Intracellular in-vitro electrophysiology 
 
 ## Frank Lab (UCSF) (May, 2019)
 
