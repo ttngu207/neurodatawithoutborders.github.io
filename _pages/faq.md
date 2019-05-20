@@ -9,23 +9,9 @@ permalink: /faq
 
 # Frequently Asked Questions
 
-## Does it make sense to start using NWB:N 2.0 now, or is it more sensible to wait?
-
-Yes. A first public beta release of PyNWB (for Python 2.7.x and >3.5) and NWB 2.0 has been released in
-November 2017 in conjunction with the Annual Society for Neuroscience Meeting (SfN). The intent of this beta
-release was to enable early adopters to start exploring the new format and software. While development on NWB 2.0 has
-been progressing rapidly, further changes to the APIs as well as the format are still planed between this beta
-and the first full release of NWB 2.0. However, overall we expect that most of these changes will be small so that
-the current API and format provide a good starting point for exploring and beginning adoption of the format.
-The current development plan is available here: http://nwb-overview.readthedocs.io/en/latest/development_plan.html
-
 ## Is NWB:N 2 stable?
 
-NWB:N 2 is currently under **active development**. The APIs and schema may change at any time. While many parts of the
-format and APIs have stabilized, the goal of the beta development phase is to enable users to begin adoption of
-NWB:N 2, develop the codes needed to convert data to NWB:N 2 and to test the schema and APIs. The goal of the beta phase is also
-to finalize changes to the schema and API features to allow us to ensure stability once the full release occurs
-as well as to improve testing and documentation.
+Yes! NWB:N 2.0 was officially released in January 2019, and the schema is now stable. Any changes that will be made now will be backwards compatible.
 
 ## I would like to use NWB:N. How do I get started?
 
@@ -76,7 +62,7 @@ For details on how to contribute to PyNWB see our
 
 ## Does pynwb support both python 2.7 and python >3.5?
 
-Yes
+Yes, for now. The next minor release of PyNWB will continue to support Python 2.7, but we may end support for Python 2.7 in future releases.
 
 
 
