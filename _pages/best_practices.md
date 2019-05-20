@@ -53,7 +53,7 @@ end (e.g. `response_time`) and store the time values in seconds from the `sessio
 `stop_time`.
 
 ### location
-The `'location'` column of the electrodes table is meant to store the brain region that the electrode as in. Different
+The `'location'` column of the electrodes table is meant to store the brain region that the electrode is in. Different
 labs have different standards for electrode localization. Some use atlases and coordinate maps to precisely place an
 electrode, and use physiological measures to confirm its placement. Others use histology or imaging processing 
 algorithms to identify regions after-the-fact. You fill this column with localization results from your most accurate
