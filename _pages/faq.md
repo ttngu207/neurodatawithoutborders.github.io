@@ -62,7 +62,7 @@ For details on how to contribute to PyNWB see our
 
 ## Does pynwb support both python 2.7 and python >3.5?
 
-Yes, for now. We are planning to drop support for python2 on January 1, 2020.
+Yes, for now. The next minor release of PyNWB will continue to support Python 2.7, but we may end support for Python 2.7 in future releases.
 
 
 
