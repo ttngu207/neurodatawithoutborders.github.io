@@ -4,7 +4,7 @@ The following document is a summary of a meeting of NWB:N developers, contributo
 Hackathon #6 at HHMI Janelia Research Campus on May 16th, 2019.
 
 ### Authors
-Oliver Ruebel, Andrew Tritt, Benjamin Dichter, ...
+Oliver Ruebel, Andrew Tritt, Ryan Ly, Benjamin Dichter, ...
 
 
 ## Preamble
