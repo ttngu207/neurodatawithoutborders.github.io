@@ -69,12 +69,9 @@ When creating a custom name, do not use the forward slash (`/`), as this can con
 
 ### Naming of processing modules
 In NWB:N version [ver], optional [ProcessingModules](https://nwb-schema.readthedocs.io/en/latest/format.html#sec-processingmodule) will be added to increase standardization of processing module names.
-These names mirror the extension module names: "ecephys", "icephys", "behavior", "ophys", "misc". If appropriate, we
-encourage the use of these defaults. There may be some cases when deviating from this pattern is appropriate. For
+These names mirror the extension module names: "ecephys", "icephys", "behavior", "ophys", "misc". We encourage the use of these defaults, but there may be some cases when deviating from this pattern is appropriate. For
 instance, if there is a processing step that involves data from multiple modalities, or if the user wants to compare two
-processing pipelines for a single modality (e.g. different spike sorters). In cases like these, you may create 
-`ProcessingModules` with custom names. `ProcessingModules` are themselves neurodata_types, and the other rules for
-neurodata_types also apply here.
+processing pipelines for a single modality (e.g. different spike sorters), you should create `ProcessingModules` with custom names. `ProcessingModules` are themselves neurodata_types, and the other rules for neurodata_types also apply here.
 
 
 ## Unit (of measurement)
