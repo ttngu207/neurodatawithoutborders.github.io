@@ -21,7 +21,7 @@ leverage the tools in the NWB:N ecosystem.
 An `NWBFile` object generally contains data from a single experimental session.
 
 ### identifiers
-
+This section is a work-in-progress. Do not hesitate to contribute to the discussion by proposing changes.
 
 ## DynamicTables
 ### bools
