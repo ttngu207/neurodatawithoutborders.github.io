@@ -13,7 +13,7 @@ however this can create a challenge. New users struggle because they have a numb
 into this format and they do not know which way is best. Tool builders also struggle with this flexibility because they 
 prefer to have a more predictable structure to build analysis tools against. We could address this by imposing stricter
 rules in the NWB:N standard, but this would break backwards compatibility and might hinder the format's flexibility.
-Here, we strike a compromise, by describing "best practices." This is a document of advise from developers and
+Here, we strike a compromise, by describing "best practices." This is a document of advice from developers and
 experienced users that outlines some of the pitfalls to avoid and usage patterns to emulate so that you can fully
 leverage the tools in the NWB:N ecosystem.
 
