@@ -26,11 +26,11 @@ This section is a work-in-progress. Do not hesitate to contribute to the discuss
 ## DynamicTables
 ### bools
 Although boolean values (`True`/`False`) are not used in the core schema, they are a supported data type, and we
-encourage the use of `DynamicTable` columns with boolean values. For instance, boolean values would be appropriate for
+encourage the use of [`DynamicTable`](https://nwb-schema.readthedocs.io/en/latest/format.html#dynamictable) columns with boolean values. For instance, boolean values would be appropriate for
 a `correct` custom column to the trials table.
 
 ### times
-In `TimeInterval` objects such as the trials and epochs table, `start_time` and `stop_time` should both be in seconds 
+In [`TimeInterval`](https://nwb-schema.readthedocs.io/en/latest/format.html#timeintervals) objects such as the trials and epochs table, `start_time` and `stop_time` should both be in seconds 
 with respect to the `session_start_time` (as are all times in  NWB:N). If you add more times in the trials 
 table, for instance a subject response time, name it with `_time` at the end (e.g. `response_time`) and store the time
 values in seconds from the `session_start_time`, just like `start_time` and `stop_time`.
@@ -55,7 +55,7 @@ Many of the neurodata_types in NWB:N have a flexible name. This allows multiple 
 side-by-side and allows data writers to provide human-readable information about the contents of the neurodata_type. If 
 appropriate, simply use the name of the neurodata_type as the name of that object. For instance, if you are
 placing an `ElectricalSeries` object in `/acquisition` that holds voltage traces for a multichannel recording, consider
-simply naming that object `"ElectricalSeries"`. This is the default_name for that object, and naming it this will increase
+simply naming that object `"ElectricalSeries"`. This is the `default_name` for that object, and naming it like this will increase
 your chances that analysis and visualization tools will operate seamlessly with you data.
 
 If you need to place other data of the same neurodata_type, you will need to choose another name. Keep in mind that
@@ -65,12 +65,10 @@ signal will be clear from the device of the rows from the linked electrodes tabl
 any important distinguishing information in the `description` field of the object. Make an effort to make meta-data as
 explicit as possible. Good names help users but do not help applications parse your file.
 
-When creating a custom name, do not use the forward slash (`/`), as this can confuse `h5py` and create an additional
-group. For instance, the `DfOverF` group should not be stored with the name `df/f`. For this and similar cases use 
-"`Over`" like in `DfOverF`.
+When creating a custom name, do not use the forward slash (`/`), as this can confuse `h5py` and lead to the creation of an additional group. For instance, the [`DfOverF`](https://nwb-schema.readthedocs.io/en/latest/format.html#dfoverf) group should not be stored with the name `df/f`. For this and similar cases use "`Over`" like in `DfOverF`.
 
 ### Naming of processing modules
-In NWB:N version [ver], optional processing modules will be added to increase standardization of processing module names.
+In NWB:N version [ver], optional [ProcessingModules](https://nwb-schema.readthedocs.io/en/latest/format.html#sec-processingmodule) will be added to increase standardization of processing module names.
 These names mirror the extension module names: "ecephys", "icephys", "behavior", "ophys", "misc". If appropriate, we
 encourage the use of these defaults. There may be some cases when deviating from this pattern is appropriate. For
 instance, if there is a processing step that involves data from multiple modalities, or if the user wants to compare two
@@ -80,12 +78,12 @@ neurodata_types also apply here.
 
 
 ## Unit (of measurement)
-Every `TimeSeries` instance has a `unit` as an attribute of the `data` Dataset, which is meant to indicate the unit of
+Every [`TimeSeries`](https://nwb-schema.readthedocs.io/en/latest/format.html#timeseries-types) instance has a `unit` as an attribute of the `data` Dataset, which is meant to indicate the unit of
 measurement of that data. We advise using SI units. Time is always in units of seconds.
 
 
 ## Simulated data
-You may store the result of simulations in NWB files. In this case, the goal is to store data as if it were recorded
+You may store the result of simulations in NWB files. NWB:N allows you to store data as if it were recorded
 **in vivo** to facilitate comparison between simulated results and **in vivo** results. Core components of the NWB:N
 schema and HDF5 backend have been engineered to handle data from hundreds of thousands of units, and natively support 
 parallel data access via MPI, so much of the NWB:N format should work for large-scale simulations out-of-the-box. The
