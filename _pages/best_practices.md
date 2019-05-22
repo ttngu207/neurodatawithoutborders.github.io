@@ -112,6 +112,6 @@ parallel data access via MPI, so much of the NWB:N format should work for large-
 neurodata extension "simulation_output" provides a neurodata_type for storing continuous recordings from multiple cells
 and multiple compartments per cell. The extension only supports storing the output data of a simulation and does not 
 support parameters for simulation configuration. This is out-of-scope for NWB:N, since it does not facilitate
-side-by-side comparison between stimulated and **in vivo** results, and is quite difficult to generalize given the
+side-by-side comparison between simulated and **in vivo** results, and is quite difficult to generalize given the
 diversity of ways one can parametrize a simulation. That said, if you would benefit from storing such data in your 
 NWB:N file, you might consider creating your own custom extension.
