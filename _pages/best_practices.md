@@ -85,9 +85,7 @@ signal will be clear from the device of the rows from the linked electrodes tabl
 any important distinguishing information in the `description` field of the object. Make an effort to make meta-data as
 explicit as possible. Good names help users but do not help applications parse your file.
 
-When creating a custom name, do not use the forward slash (`/`), as this can confuse `h5py` and lead to the creation of an 
-additional group. For instance, the [`DfOverF`](https://nwb-schema.readthedocs.io/en/latest/format.html#dfoverf) group should 
-not be stored with the name `df/f`. For this and similar cases use "`Over`" like in `DfOverF`.
+When creating a custom name, using the forward slash (`/`) is not allowed, as this can confuse `h5py` and lead to the creation of an additional group. Instead of including a forward slash in the name, please use "`Over`" like in [`DfOverF`](https://nwb-schema.readthedocs.io/en/latest/format.html#dfoverf).
 
 ### Naming of processing modules
 In NWB:N version [ver], optional [ProcessingModules](https://nwb-schema.readthedocs.io/en/latest/format.html#sec-processingmodule) will be added to increase standardization of processing module names.
