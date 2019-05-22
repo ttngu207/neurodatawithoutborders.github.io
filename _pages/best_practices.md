@@ -35,6 +35,9 @@ An `NWBFile` object generally contains data from a single experimental session.
 ### identifiers
 This section is a work-in-progress. Do not hesitate to contribute to the discussion by proposing changes.
 
+`NWBFile` has two distinct places for ids: `session_id` and `identifier`. The `session_id` should have a one-to-one 
+relationship with a recording session. Sometimes you may find yourself having multiple NWB files that correspond to the same session. This can happen for instance if you seperate out processing steps into multiple files or if you want to compare different processing systems. In this case, the `session_id` should be the same for each file. Each lab should use a standard for `session_id` so that sessions have unique names within the lab and the sessions ids are human-readable. The `identifier` tag should be unique for each `NWBFile`, even if they are from the same session. It is reccomended that you use a unique id generator like uuid to ensure its uniqueness. It is not important that the `identifier` field is human readable.
+
 ## DynamicTables
 [`DynamicTable`](https://nwb-schema.readthedocs.io/en/latest/format.html#dynamictable) allow you to define custom columns, 
 which offer a high degree of flexibility. When constructing dynamic tables, keep in mind that the data is stored by column, so 
