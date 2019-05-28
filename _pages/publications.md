@@ -41,7 +41,7 @@ permalink: /publications
 
 ### Talks and Tutorials
 
-* Oliver Ruebel, Benjamin Dichter, Andrew Tritt, Michael Grauer, Nathan Clack, Lawrence Niu, Ryan Ly, Thomas Braun, Tom Davidson, Thin Nguyen, Vyassa Baratham, *"NWB:N User Days 2019,"* May 13-14, 2019, HHMI Janelia, Ashburn, VA, USA. [(Talks and Tutorials)](https://neurodatawithoutborders.github.io/nwb_hackathons/HCK06_2019_Janelia/#resources)
+* Oliver Ruebel, Benjamin Dichter, Andrew Tritt, Michael Grauer, Nathan Clack, Lawrence Niu, Ryan Ly, Thomas Braun, Tom Davidson, Thinh Nguyen, Vyassa Baratham, *"NWB:N User Days 2019,"* May 13-14, 2019, HHMI Janelia, Ashburn, VA, USA. [(Talks and Tutorials)](https://neurodatawithoutborders.github.io/nwb_hackathons/HCK06_2019_Janelia/#resources)
 * Oliver Ruebel and Benjamin Dichter, *"NWB:N Tutorial at Cosyne 2019,"*  Mar. 4, 2019, Cascais, Portugal. [(Tutoral Materials)](https://neurodatawithoutborders.github.io/nwb_hackathons/Cosyne_2019/#tutorial-program)
 * Oliver Ruebel, Andrew Tritt, Kristofer Bouchard, Nicholas Cain, Benjamin Dichter, Michael Grauer, Jean-Christophe Fillion-Robin, Nathan Clack, Lawrence Niu et al., *"5th NWB:N Hackathon,"* Apr. 26-27, 2018, Lawrence Berkeley National Laboratory, Berkeley, CA, USA. [(Slides)](https://neurodatawithoutborders.github.io/nwb_hackathons/HCK05_2018_Berkeley/#slides)
 
