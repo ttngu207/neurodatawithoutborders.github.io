@@ -1,3 +1,13 @@
+---
+title: "NWB:N Best Practices"
+layout: default
+excerpt: "NWB:N Best Practices"
+sitemap: false
+permalink: /best_practices
+---
+
+
+
 # Best Practices
 
 The goal of the following document is to provide users of the NWB:N with additional guidelines on common best practices
