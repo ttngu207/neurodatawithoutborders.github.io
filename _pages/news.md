@@ -8,6 +8,12 @@ permalink: /news
 
 # News
 
+
+## NWB:N User- and Developer Days 2019
+**Data:** June 7
+
+The 2019 NWB:N User Days and Developer Hackathon were a great success. We thank all participants; without such a great community of users and developers NWB:N would not be possible! Read more about what happend at the event in the [final report](https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK06_2019_Janelia/report/Report___6th_NWB_N_Hackathon.pdf) and in the following [news release](https://cs.lbl.gov/news-media/news/2019/neurodata-without-borders-project-hosts-user-and-developer-hackathons/).
+
 ## NWB:N User Days 2019 Registration Open
 **Date:** Mar. 5, 2019
 
